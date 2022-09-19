@@ -4,5 +4,7 @@ public class TestMain {
     public static void main(String[] args) {
         System.out.println("main method called successfully");
         System.out.println("2nd line added");
+        System.out.println("3rd line added");
+        
     }
 }
